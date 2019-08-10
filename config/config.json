@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "troy--95",
+    "database": "visio",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "troy--95",
+    "database": "visio",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "aggmnytlsuevle",
+    "password": "cf5fba924d74d745505ac65f6623191cfaf317a4dff7802206fcf2fae5c22b4c",
+    "database": "dfnjer64fj0f4g",
+    "host": "ec2-75-101-147-226.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "url": "postgres://aggmnytlsuevle:cf5fba924d74d745505ac65f6623191cfaf317a4dff7802206fcf2fae5c22b4c@ec2-75-101-147-226.compute-1.amazonaws.com:5432/dfnjer64fj0f4g"
+  }
+}
